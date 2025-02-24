@@ -9,7 +9,7 @@ function App() {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <h1 className="text-2xl font-bold hover:text-green-500 transition-colors duration-300">BROBARBER</h1>
           <a
-            href="https://wa.me/+71234567890"
+            href="https://wa.me/+77784785630"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-green-600 hover:bg-green-700 px-4 py-2 rounded-full transition-all duration-300 hover:scale-105"
@@ -81,7 +81,7 @@ function App() {
               <Phone className="w-8 h-8 text-white animate-pulse" />
               <div>
                 <h3 className="font-semibold">Телефон</h3>
-                <p className="text-gray-400">+7 (727) 123-45-67</p>
+                <p className="text-gray-400">+7 (778) 478-56-30</p>
               </div>
             </div>
             <div className="flex items-center gap-4 transform hover:scale-105 transition-all duration-300 animate-slideUp delay-200">
